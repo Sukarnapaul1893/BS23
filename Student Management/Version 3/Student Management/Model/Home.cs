@@ -1,4 +1,4 @@
-﻿using Student_Management.Services;
+using Student_Management.Services;
 using System;
 using System.Collections.Generic;
 
@@ -397,9 +397,7 @@ namespace Student_Management.Model
                 DisplayMessage("Enter the teacher id");
                 string teacherId = Input();
 
-                TeacherService teacherService = new TeacherService();
-
-                var teacher = teacherService.GetTeacherById(teacherId);
+                var teacher = GetTeacherById(teacherId);
 
                 var courseList = teacher.TeacherCourses;
 
@@ -416,9 +414,7 @@ namespace Student_Management.Model
                 DisplayMessage("Enter the course id");
                 string courseId = Input();
 
-                CourseService courseService = new CourseService();
-
-                var course = courseService.GetCourseById(courseId);
+                var course = GetCourseById(courseId);
 
                 var teacherList = course.TeacherCourses;
 
@@ -464,8 +460,7 @@ namespace Student_Management.Model
         {
             try
             {
-                var courseService = new CourseService();
-                var x = courseService.GetCourseById(courseId);
+                var x = GetCourseById(courseId);
             }
             catch (Exception ex)
             {
