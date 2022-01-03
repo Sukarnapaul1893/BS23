@@ -13,3 +13,18 @@ C:\Users\BS363\source\repos\Student Management\Student Management\obj\Debug\net6
 C:\Users\BS363\source\repos\Student Management\Student Management\obj\Debug\net6.0\ref\Student Management.dll
 C:\Users\BS363\source\repos\Student Management\Student Management\obj\Debug\net6.0\Student Management.pdb
 C:\Users\BS363\source\repos\Student Management\Student Management\obj\Debug\net6.0\Student Management.genruntimeconfig.cache
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\Student Management.exe
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\Student Management.deps.json
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\Student Management.runtimeconfig.json
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\Student Management.dll
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\ref\Student Management.dll
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\bin\Debug\net6.0\Student Management.pdb
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.csproj.AssemblyReference.cache
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.AssemblyInfoInputs.cache
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.AssemblyInfo.cs
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.csproj.CoreCompileInputs.cache
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.dll
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\ref\Student Management.dll
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.pdb
+D:\Projects\aBSOULUTELY-rANDOM-sTUFF\Student Management\Version 3\Student Management\obj\Debug\net6.0\Student Management.genruntimeconfig.cache

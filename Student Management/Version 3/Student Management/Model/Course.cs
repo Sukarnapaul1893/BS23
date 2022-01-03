@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Student_Management.Model
 {
-    public class Course
+    public class Course: BaseModel
     {
-        public string Id { get; set; }
+      
         public string Title { get; set; }
 
         public ICollection<StudentCourse> StudentCourses { get; set; }

@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BS363\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\BS636\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BS363\\source\\repos\\Student Management\\Student Management\\Student Management.csproj",
+      "projectUniqueName": "D:\\Projects\\aBSOULUTELY-rANDOM-sTUFF\\Student Management\\Version 3\\Student Management\\Student Management.csproj",
       "projectName": "Student Management",
-      "projectPath": "C:\\Users\\BS363\\source\\repos\\Student Management\\Student Management\\Student Management.csproj",
-      "packagesPath": "C:\\Users\\BS363\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BS363\\source\\repos\\Student Management\\Student Management\\obj\\",
+      "projectPath": "D:\\Projects\\aBSOULUTELY-rANDOM-sTUFF\\Student Management\\Version 3\\Student Management\\Student Management.csproj",
+      "packagesPath": "C:\\Users\\BS636\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\aBSOULUTELY-rANDOM-sTUFF\\Student Management\\Version 3\\Student Management\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\BS363\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\BS636\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
